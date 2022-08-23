@@ -12,16 +12,16 @@
   "credentialSubject": {
     "id": "https://ioxayo.github.io/credential-status-6/SLAVSRYLP1#list",
     "type": "StatusList2021",
-    "encodedList": "H4sIAAAAAAAAA-3BMQEAAADCoPVPbQsvoAAAAAAAAAAAAAAAAP4GcwM92tQwAAA",
+    "encodedList": "H4sIAAAAAAAAA-3BIQEAAAACIIP_N_vCBDQAAAAAAAAAAAAAAAB_AyAAl2fUMAAA",
     "statusPurpose": "revocation"
   },
   "issuer": "did:key:z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC",
-  "issuanceDate": "2022-08-23T21:13:21.330Z",
+  "issuanceDate": "2022-08-23T21:25:48.774Z",
   "proof": {
     "type": "Ed25519Signature2020",
-    "created": "2022-08-23T21:13:21Z",
+    "created": "2022-08-23T21:25:48Z",
     "verificationMethod": "did:key:z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC#z6MkhVTX9BF3NGYX6cc7jWpbNnR7cAjH8LUffabZP8Qu4ysC",
     "proofPurpose": "assertionMethod",
-    "proofValue": "z2d2NHAZJ729txca3279vuUnQbbzm3baHPAPW91U7TWtRGKNgQoy7K4ArfjL1jehSviAqVaCc761uKo7MhFSuq4pV"
+    "proofValue": "z3cXuAwwKxW4kC2UmN2WD18HkvRjkpnUhjrRuGLZmBirjybTJDhdASkRe69weZ3ghi4joh4FA9mgSYskZVmys6ec5"
   }
 }
